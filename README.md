@@ -1,95 +1,92 @@
-# Hi, I'm Madhavi 👋
+# Hi there, I'm Madhavi Dayma 👋
 
-### Artificial Intelligence & Data Science Student | AI/ML | Agentic AI | RPA
+<div align="center">
 
-I'm a final-year Artificial Intelligence and Data Science student
-passionate about building intelligent systems and solving
-real-world problems using AI, machine learning, and data.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhavi-dayma-8a80841b6)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhavidayma21@gmail.com)
 
----
-
-## 👩‍💻 About Me
-
-- 🎓 Final-year Artificial Intelligence & Data Science student
-- 🤖 Interested in Artificial Intelligence, Machine Learning and Agentic AI
-- 🧠 Exploring LLMs, RAG and NLP
-- 📊 Interested in Data Science and intelligent data-driven solutions
-- ⚙️ Building automation and AI-powered applications
-- 🔐 Interested in Machine Learning for Cybersecurity
-- 🌱 Continuously learning and building real-world projects
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 About Me
 
-### Languages
-Python • Java • C • C++ • JavaScript
+Final-year **Artificial Intelligence & Data Science** student specializing in **Agentic AI Systems**, **Explainable Machine Learning**, and **Intelligent Automation**. 
 
-### AI & Data Science
-Artificial Intelligence • Machine Learning • NLP • Agentic AI • LLMs • RAG
-
-### AI / ML Tools
-LangGraph • Ollama • ChromaDB • Scikit-learn • Pandas • NumPy
-
-### Backend & Development
-FastAPI • Docker
-
-### Automation
-UiPath • PDF Automation • Excel Automation • Email Automation
-
-### Databases
-MySQL • DBMS
-
-### Core Concepts
-Data Structures & Algorithms • OOP • Computer Networks • Cybersecurity
-• Cloud Computing • IoT • Operating Systems • Software Engineering
+- 🤖 **Current Focus:** Building autonomous multi-agent workflows using **LangGraph**, **Ollama**, and **ChromaDB**.
+- 🛡️ **Cybersecurity & AI:** Implementing explainable botnet detection models (**XGBoost + SHAP**) for network intrusion detection.
+- ⚙️ **RPA & Automation:** Designing enterprise-level automation solutions using **UiPath** (PDF, Excel, and Email workflows).
+- ⛓️ **Web3 & Cloud:** Exploring decentralized architectures (IPFS/Smart Contracts) and containerized deployments (**Docker + FastAPI**).
 
 ---
 
-## 🚀 Featured Projects
+### 🛠️️ Tech Stack & Tooling
 
-### 🤖 Agentic AI Research Assistant
-
-A multi-agent AI system for automated research, academic paper
-analysis, semantic document retrieval, and report generation.
-
-**Tech:** LangGraph • Ollama • ChromaDB • FastAPI • Docker
+<table>
+  <tr>
+    <td width="20%"><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>AI / Data Science</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Agentic AI & LLMs</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge&logo=database&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>DevOps & RPA</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🔄 RPA-Based Business Process Automation
+### 📌 Featured Projects
 
-Developed automation bots for PDF extraction, Excel automation,
-file merging, email automation, and supply-chain workflow automation.
+<div align="center">
 
-**Tech:** UiPath • RPA • PDF Automation • Excel Automation
+| Project & Links | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🤖 Agentic AI Research Assistant**<br/><br/>[![Repository](https://img.shields.io/badge/Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/madhavidayma21/agentic-ai-research-assistant) [![Live Demo](https://img.shields.io/badge/Demo-2563EB?style=flat-square&logo=streamlit&logoColor=white)](https://agentic-ai-research.streamlit.app) | Multi-agent framework for automated academic paper analysis, semantic search, and summary generation. | ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=python&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| **🛡️ Explainable Botnet Detection**<br/><br/>[![Repository](https://img.shields.io/badge/Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/madhavidayma21/explainable-botnet-detection) [![Live Demo](https://img.shields.io/badge/Demo-2563EB?style=flat-square&logo=streamlit&logoColor=white)](https://botnet-detection.streamlit.app) | Machine learning cybersecurity framework using XGBoost with SHAP waterfall analysis on the UNSW-NB15 dataset. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-150458?style=flat-square) ![SHAP](https://img.shields.io/badge/SHAP-EE4C2C?style=flat-square) |
+| **⚙️ Enterprise RPA Automation**<br/><br/>[![Repository](https://img.shields.io/badge/Repo-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/madhavidayma21/rpa-enterprise-workflows) | End-to-end robotic process automation suite for automated email routing, document extraction, and Excel ledger processing. | ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white) ![Excel Automation](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) |
 
----
-
-### 🛡️ Botnet Detection System
-
-A machine-learning-based system for detecting malicious botnet
-traffic patterns using network traffic analysis and explainable AI.
-
-**Tech:** Python • Machine Learning • Scikit-learn • Network Analysis
+</div>
 
 ---
 
-## 📚 Currently Learning
+### 📊 GitHub Analytics
 
-- Advanced Machine Learning
-- Generative AI
-- Large Language Models
-- Retrieval-Augmented Generation
-- AI Agents
-- Data Science
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=madhavidayma21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavidayma21&layout=compact&theme=tokyonight&hide=html,css"/>
+
+</div>
 
 ---
 
-## 🤝 Connect With Me
-
-- GitHub: [madhavidayma21](https://github.com/madhavidayma21)
-- LinkedIn: [Madhavi Dayma](https://www.linkedin.com/in/madhavi-dayma-8a80841b6)
-
-
-⭐ Thanks for visiting my profile!
+<div align="center">
+  <sub>Designed & Developed by Madhavi Dayma</sub>
+</div>
